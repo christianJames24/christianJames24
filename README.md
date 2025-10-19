@@ -13,8 +13,11 @@
 ---
 
 ### About
-Currently maintaing a Kart Racing game on Roblox lol
-<h2><a href=https://piplupcool123.github.io/hyper-karts-music/>Game OST</a></h2>
+<p>
+  Currently maintaing a Kart Racing game on Roblox lol
+  <a href="https://piplupcool123.github.io/hyper-karts-music/" target="_blank">Game OST</a>
+</p>
+
 ---
 
 ### Tech Stack
