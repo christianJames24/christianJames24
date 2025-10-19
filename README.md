@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://media.tenor.com/EApsY0ZsMgQAAAAM/oshawott.gif" width="600" alt="Oshawott Banner"/>
-</p>
-
 <h1 align="center">Christian James Lee</h1>
 
 <p align="center">
@@ -91,5 +87,5 @@ Check out the [Game OST](https://piplupcool123.github.io/hyper-karts-music/)
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=120&section=footer" />
+  <img src="https://media.tenor.com/EApsY0ZsMgQAAAAM/oshawott.gif" width="600" alt="Oshawott Banner"/>
 </p>
