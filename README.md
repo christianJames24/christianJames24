@@ -13,44 +13,44 @@
 ---
 
 ### About
-Computer Science student at Champlain College Saint-Lambert (DEC, expected 2026).  
-Interested in backend development, software architecture, and system design.  
-Currently developing a multiplayer racing game on Roblox and a business system for a local construction company.
+Currently maintaing a Kart Racing game on Roblox lol
 
 ---
 
-### Skills
-**Languages:** Java, C#, Python, Lua  
-**Frameworks:** Spring Boot, React, TypeScript  
-**Databases:** PostgreSQL, MySQL, MongoDB  
-**Tools:** Docker, Git, Postman, Jira  
-**Concepts:** REST APIs, Domain-Driven Design, Agile/Scrum
-
----
-
-### Featured Projects
-**Westech Information System**  
-Developing an internal business system for a construction company. Focus on database design, backend logic, and deployment pipeline.  
-*Spring Boot, Docker, MySQL*
-
-**Champlain Pet Clinic**  
-Collaborated in an Agile team to maintain and expand a multi-service web application.  
-*React, TypeScript, Spring Boot, Docker*
-
-**Hyper Karts**  
-An online multiplayer racing game on Roblox. Focused on gameplay logic, server synchronization, and player feedback loops.  
-*Lua, Roblox Studio*
-
----
-
-### Stats
+### Tech Stack
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=christianJames24&show_icons=true&theme=transparent" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=christianJames24&layout=compact&theme=transparent" height="160"/>
+  <img src="https://skillicons.dev/icons?i=java,cs,python,lua,typescript,react,spring,docker,postgresql,mysql,mongodb,git,postman" />
+</p>
+
+---
+
+### GitHub Overview
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=christianJames24&show_icons=true&hide_title=false&theme=transparent&hide_border=true&count_private=true&include_all_commits=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=christianJames24&layout=compact&theme=transparent&hide_border=true" height="165" />
+</p>
+
+---
+
+### Contribution & Activity
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=christianJames24&theme=transparent&hide_border=true" height="160" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=christianJames24&theme=github-compact&hide_border=true&area=true" height="250" />
+</p>
+
+---
+
+### System Stats
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=christianJames24&theme=onestar&no-frame=true&column=6&margin-w=10&margin-h=10" />
 </p>
 
 ---
 
 ### Contact
-Feel free to reach out via [LinkedIn](https://linkedin.com/in/christian-james-lee-6864222b5) or [email](mailto:christianvehicle@gmail.com).  
-I’m always open to discussing software development, design systems, or game projects.
+- **Email:** [christianvehicle@gmail.com](mailto:christianvehicle@gmail.com)  
+- **LinkedIn:** [linkedin.com/in/christian-james-lee-6864222b5](https://linkedin.com/in/christian-james-lee-6864222b5)  
+- **GitHub:** [github.com/christianJames24](https://github.com/christianJames24)
