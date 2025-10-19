@@ -19,7 +19,7 @@ Currently maintaing a Kart Racing game on Roblox lol
 
 ### Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,cs,python,lua,typescript,react,spring,docker,postgresql,mysql,mongodb,git,postman" />
+  <img src="https://skillicons.dev/icons?i=java,cs,python,lua,docker,mysql,git,postman" />
 </p>
 
 ---
