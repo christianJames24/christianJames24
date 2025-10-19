@@ -22,7 +22,9 @@
   <img src="https://img.shields.io/github/stars/christianJames24?style=for-the-badge&color=7C3AED&labelColor=1e1e2e" />
 </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%">
+<img width="80" height="15" alt="coke" src="https://github.com/user-attachments/assets/43b61fba-771e-45ce-851c-005d2161d1a7" />
+<img width="80" height="15" alt="coke" src="https://github.com/user-attachments/assets/fd63ba90-ac9f-4ea9-a219-2df3fd267a0d" />
+<img width="80" height="15" alt="coke" src="https://github.com/user-attachments/assets/4b8ca758-9910-4a06-b38b-4a6070583356" />
 
 ### About Me
 
