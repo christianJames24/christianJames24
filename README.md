@@ -1,15 +1,6 @@
 <h1 align="center">Christian James Lee</h1>
 
 <p align="center">
-  <a href="https://github.com/christianJames24">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="mailto:christianvehicle@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=christianJames24&color=7C3AED&style=for-the-badge&label=PROFILE+VIEWS" />
   <img src="https://img.shields.io/github/followers/christianJames24?style=for-the-badge&color=7C3AED&labelColor=1e1e2e" />
   <img src="https://img.shields.io/github/stars/christianJames24?style=for-the-badge&color=7C3AED&labelColor=1e1e2e" />
