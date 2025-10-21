@@ -51,31 +51,6 @@ Check out the [Game OST](https://piplupcool123.github.io/hyper-karts-music/)
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-### GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=christianJames24&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=1a1b27&icon_color=bb9af7&title_color=7aa2f7&text_color=c0caf5" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=christianJames24&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&text_color=c0caf5" height="180" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=christianJames24&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=1f6feb&currStreakLabel=58a6ff&sideLabels=1f6feb&dates=6e7681" height="180" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=christianJames24&theme=tokyo-night&hide_border=true&area=true&bg_color=1a1b27&color=7aa2f7&line=bb9af7&point=c0caf5" />
-</p>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-### Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=christianJames24&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" />
-</p>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
 ### Connect
 
 <p align="center">
