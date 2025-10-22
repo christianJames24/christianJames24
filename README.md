@@ -1,9 +1,9 @@
 <h1 align="center">Christian James Lee</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=christianJames24&color=7C3AED&style=for-the-badge&label=PROFILE+VIEWS" />
-  <img src="https://img.shields.io/github/followers/christianJames24?style=for-the-badge&color=7C3AED&labelColor=1e1e2e" />
-  <img src="https://img.shields.io/github/stars/christianJames24?style=for-the-badge&color=7C3AED&labelColor=1e1e2e" />
+  <img src="https://komarev.com/ghpvc/?username=christianJames24&color=52b4ff&style=for-the-badge&label=PROFILE+VIEWS" />
+  <!-- <img src="https://img.shields.io/github/followers/christianJames24?style=for-the-badge&color=7C3AED&labelColor=1e1e2e" /> -->
+  <!-- <img src="https://img.shields.io/github/stars/christianJames24?style=for-the-badge&color=7C3AED&labelColor=1e1e2e" /> -->
 </p>
 
 ### About Me
@@ -16,8 +16,13 @@ Check out the [Game OST](https://piplupcool123.github.io/hyper-karts-music/)
 <img width="80" height="15" alt="coke" src="https://github.com/user-attachments/assets/fd63ba90-ac9f-4ea9-a219-2df3fd267a0d" />
 <img width="80" height="15" alt="coke" src="https://github.com/user-attachments/assets/4b8ca758-9910-4a06-b38b-4a6070583356" />
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<br>
+<br>
+<br>
 
+<!-- <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"> -->
+
+<!--
 ### Languages & Tools
 
 <p align="center">
@@ -55,6 +60,8 @@ Check out the [Game OST](https://piplupcool123.github.io/hyper-karts-music/)
     <img src="https://img.shields.io/badge/LinkedIn-Christian_James_Lee-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
+
+-->
 
 <p align="center">
   <img src="https://media.tenor.com/EApsY0ZsMgQAAAAM/oshawott.gif" width="600" alt="Oshawott Banner"/>
