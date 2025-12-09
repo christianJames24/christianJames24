@@ -8,7 +8,7 @@
 
 ### About Me
 
-Currently maintainer of a Kart Racing game on Roblox (game is not for sale, stop asking pls)
+Currently maintainer of a Kart Racing game on Roblox
 <br>
 Check out the [Game OST](https://piplupcool123.github.io/hyper-karts-music/)
 
