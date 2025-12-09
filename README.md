@@ -63,6 +63,6 @@ Check out the [Game OST](https://piplupcool123.github.io/hyper-karts-music/)
 
 -->
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://media.tenor.com/EApsY0ZsMgQAAAAM/oshawott.gif" width="600" alt="Oshawott Banner"/>
-</p>
+</p> -->
