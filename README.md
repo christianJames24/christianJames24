@@ -1,10 +1,4 @@
-<h1 align="center">Christian James Lee</h1>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=christianJames24&color=52b4ff&style=for-the-badge&label=PROFILE+VIEWS" />
-  <!-- <img src="https://img.shields.io/github/followers/christianJames24?style=for-the-badge&color=7C3AED&labelColor=1e1e2e" /> -->
-  <!-- <img src="https://img.shields.io/github/stars/christianJames24?style=for-the-badge&color=7C3AED&labelColor=1e1e2e" /> -->
-</p>
+<h1>Christian James Lee</h1>
 
 ### About Me
 
@@ -16,7 +10,11 @@ Check out my pinned repositories!
 <br>
 
 <p><a href="christianvehicle@gmail.com">Send email</a></p>
-<br>
+<p>
+  <img src="https://komarev.com/ghpvc/?username=christianJames24&color=52b4ff&style=for-the-badge&label=PROFILE+VIEWS" />
+  <!-- <img src="https://img.shields.io/github/followers/christianJames24?style=for-the-badge&color=7C3AED&labelColor=1e1e2e" /> -->
+  <!-- <img src="https://img.shields.io/github/stars/christianJames24?style=for-the-badge&color=7C3AED&labelColor=1e1e2e" /> -->
+</p>
 <img width="80" height="15" alt="coke" src="https://github.com/user-attachments/assets/43b61fba-771e-45ce-851c-005d2161d1a7" />
 <img width="80" height="15" alt="coke" src="https://github.com/user-attachments/assets/fd63ba90-ac9f-4ea9-a219-2df3fd267a0d" />
 <img width="80" height="15" alt="coke" src="https://github.com/user-attachments/assets/4b8ca758-9910-4a06-b38b-4a6070583356" />
