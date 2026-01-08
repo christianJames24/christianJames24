@@ -10,7 +10,6 @@
 
 I make stuff that I like
 
-<br>
 Check out my pinned repositories!
 <br>
 
