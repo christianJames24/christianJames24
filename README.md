@@ -10,6 +10,10 @@
 
 I make stuff that I like
 
+<br>
+Check out my pinned repositories!
+<br>
+
 <img width="80" height="15" alt="coke" src="https://github.com/user-attachments/assets/43b61fba-771e-45ce-851c-005d2161d1a7" />
 <img width="80" height="15" alt="coke" src="https://github.com/user-attachments/assets/fd63ba90-ac9f-4ea9-a219-2df3fd267a0d" />
 <img width="80" height="15" alt="coke" src="https://github.com/user-attachments/assets/4b8ca758-9910-4a06-b38b-4a6070583356" />
