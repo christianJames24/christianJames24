@@ -9,7 +9,7 @@ Check out my pinned repositories!
 
 <br>
 
-<p><a href="christianvehicle@gmail.com">Send email</a></p>
+<!-- <p><a href="christianvehicle@gmail.com">Send email</a></p> -->
 <p>
   <!-- <img src="https://komarev.com/ghpvc/?username=christianJames24&color=52b4ff&style=for-the-badge&label=PROFILE+VIEWS" /> -->
   <!-- <img src="https://img.shields.io/github/followers/christianJames24?style=for-the-badge&color=7C3AED&labelColor=1e1e2e" /> -->
